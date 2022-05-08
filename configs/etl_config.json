@@ -1,0 +1,5 @@
+{
+  "spark.driver.bindAddress": "127.0.0.1",
+  "spark.sql.autoBroadcastJoinThreshold": -1
+
+}
